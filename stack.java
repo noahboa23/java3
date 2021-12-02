@@ -1,7 +1,7 @@
 // Noah Acosta - these programs implement the use of stacks
 import java.util.*;
 
-public class hw4 {
+public class stack {
 	static String Green = "\033[32;1m";
 	static String Normal = "\033[0m";
 	static String Red = "\033[31;1m";
