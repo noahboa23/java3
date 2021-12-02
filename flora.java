@@ -1,4 +1,4 @@
-/* Noah Acosta - HW6 - COSC 2436.41350 */
+/* Noah Acosta - this program implements Hashing */
 import java.util.*;
 import java.io.*;
 public class flora {
