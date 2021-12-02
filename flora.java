@@ -78,7 +78,6 @@ public class flora {
 				}
 				System.out.println();
 			}
-            in.close();
 		} // end menu
 	} // end main
 } // END
