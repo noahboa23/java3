@@ -1,4 +1,4 @@
-// Noah Acosta - 
+// Noah Acosta - this program outputs sums based on random numbers
 
 import java.util.*;
 public class hw1 {
@@ -20,4 +20,3 @@ public class hw1 {
         System.out.println("These numbers sum up to " + num + ": " + A + ", " + B+", "+C+", "+D);
     }
 } //end program 1
-
